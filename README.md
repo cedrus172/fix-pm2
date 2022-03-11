@@ -8,3 +8,5 @@ Copy this path, and add the /bin in the end -> /Users/your_user/npm-global/bin. 
 
 export PATH=$PATH:/Users/your_user/npm-global/bin 
 I believe all yours global npm packages will work fine now.
+
+export PATH=$PATH:/www/server/nodejs/v16.14.0/bin
